@@ -5,7 +5,14 @@
   
 
 ---
-
+| Fotoğraf         | İsim                     | Görevler             | LinkedIn Profili                          |  Durum |
+| ---------------- | ------                   | -------------------- | ------------------------------------------| ----- |
+| ![Hasan](link1)  | Hasan Barış Sunar        | Scrum Master         | [LinkedIn](https://linkedin.com/in/hasan) | Aktif |
+| ![Ayşe](link2)   | Kayra Semercioğlu        | Product Owner        | [LinkedIn](https://linkedin.com/in/ayse)  | Aktif |
+| ![Mehmet](link3) | Hatice Aygül             | Developer            | [LinkedIn](https://linkedin.com/in/mehmet)| Aktif |
+| ![Elif](link4)   | Eda Mete                 | Developer            | [LinkedIn](https://linkedin.com/in/elif)  | Aktif |
+| ![Can](link5)    | Yusuf Yaşar              | Developer            | [LinkedIn](https://linkedin.com/in/can)   | Pasif |
+---
  # Proje Açıklaması:
 
 PostuRek, kullanıcıların duruşlarını gerçek zamanlı olarak analiz eden ve yanlış pozisyonlarda anında uyarı veren yenilikçi bir mobil sağlık uygulamasıdır. Uygulama, MediaPipe teknolojisi sayesinde vücuttaki iskelet noktalarını hassas şekilde tespit eder ve boyun, omuz, sırt ile bel açılarını temel geometrik yöntemlerle değerlendirir. Özellikle uzun süre masa başında çalışan bireylerde sıkça görülen duruş bozukluklarının önüne geçmeyi ve kullanıcıda ergonomik farkındalık oluşturmayı hedefler. Böylece PostuRek, daha sağlıklı bir yaşam ve iş ortamı için etkin bir destek sağlar.
@@ -122,10 +129,11 @@ Bu sprintin başarıyla tamamlanması için toplam 50 puan alınması hedeflenmi
  <details>
 <summary><strong> Konuşma ve Toplantı Kayıtları</strong></summary>
 
-![Toplantı 1](link-to-image1.png)  
-![Toplantı 2](link-to-image2.png)  
-![Toplantı 3](link-to-image3.png)
-
+![Toplantı 1](images/resim1.jpg)
+![Toplantı 2](images/resim2.jpg) 
+![Toplantı 1](images/resim3.jpg)
+![Toplantı 2](images/resim4.jpg)
+![Toplantı 1](images/resim5.jpg)
 </details>
 
 ---
