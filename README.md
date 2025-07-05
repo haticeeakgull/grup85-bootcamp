@@ -154,8 +154,6 @@ Bu sprintin başarıyla tamamlanması için toplam 50 puan alınması hedeflenmi
 
 ---
 
-#### Sprint 1 Katılımcıları:  
-Hasan Barış, [Ekip üyelerinin adları buraya]
 
 </details>
 
