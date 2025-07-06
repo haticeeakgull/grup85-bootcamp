@@ -7,7 +7,7 @@
 ---
 | Fotoğraf         | İsim                     | Görevler             | LinkedIn Profili                          |  Durum |
 | ---------------- | ------                   | -------------------- | ------------------------------------------| ----- |
-| ![Hasan](link1)  | Hasan Barış Sunar        | Scrum Master         | https://www.linkedin.com/in/hasan-bar%C4%B1%C5%9F-sunar-48b26a174/ | Aktif |
+| ![Hasan](link1)  | Hasan Barış Sunar        | Scrum Master         | [LinkedIn](https://www.linkedin.com/in/hasan-bar%C4%B1%C5%9F-sunar-48b26a174/) | Aktif |
 | ![Ayşe](link2)   | Kayra Semercioğlu        | Product Owner        | [LinkedIn](https://linkedin.com/in/ayse)  | Aktif |
 | ![Mehmet](link3) | Hatice Aygül             | Developer            | [LinkedIn](https://linkedin.com/in/mehmet)| Aktif |
 | ![Elif](link4)   | Eda Mete                 | Developer            | https://www.linkedin.com/in/edamete       | Aktif |
@@ -129,11 +129,32 @@ Bu sprintin başarıyla tamamlanması için toplam 50 puan alınması hedeflenmi
  <details>
 <summary><strong> Konuşma ve Toplantı Kayıtları</strong></summary>
 
-![Toplantı 1](images/resim1.jpg)
-![Toplantı 2](images/resim2.jpg) 
-![Toplantı 1](images/resim3.jpg)
-![Toplantı 2](images/resim4.jpg)
-![Toplantı 1](images/resim5.jpg)
+<br>
+
+<p align="center">
+  <img src="images/resim1.jpg" width="300"/><br>
+  <em>Toplantı 1</em>
+</p>
+
+<p align="center">
+  <img src="images/resim5.jpg" width="300"/><br>
+  <em>Toplantı 2</em>
+</p>
+
+<p align="center">
+  <img src="images/resim3.jpg" width="300"/><br>
+  <em>Whatsapp Görüşmeleri</em>
+</p>
+
+<p align="center">
+  <img src="images/resim4.jpg" width="300"/><br>
+  <em>Whatsapp Görüşmeleri</em>
+</p>
+
+<p align="center">
+  <img src="images/resim2.jpg" width="300"/><br>
+  <em>Whatsapp Görüşmeleri</em>
+</p>
 </details>
 
 ---
