@@ -90,7 +90,13 @@ TherapAI, kullanıcıların duruşlarını gerçek zamanlı olarak analiz eden v
 
 Product backlog’u Trello üzerinde yönetiyoruz.  
 Trello panosuna erişim için https://trello.com/b/lo2LQaFi.
+<details>
+<summary>Görselleri Görüntüle</summary>
 
+![Backlog Görsel 1](images/Trello1.jpg)  
+![Backlog Görsel 2](images/Trello2.jpg)  
+
+</details>
 ---
 
 <details>
