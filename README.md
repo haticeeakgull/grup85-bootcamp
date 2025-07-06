@@ -10,7 +10,7 @@
 | ![Hasan](link1)  | Hasan Barış Sunar        | Scrum Master         | [LinkedIn](https://www.linkedin.com/in/hasan-bar%C4%B1%C5%9F-sunar-48b26a174/) | Aktif |
 | ![Ayşe](link2)   | Kayra Semercioğlu        | Product Owner        | [LinkedIn](https://linkedin.com/in/ayse)  | Aktif |
 | ![Mehmet](link3) | Hatice Aygül             | Developer            | [LinkedIn](https://linkedin.com/in/mehmet)| Aktif |
-| ![Elif](link4)   | Eda Mete                 | Developer            | https://www.linkedin.com/in/edamete       | Aktif |
+| ![Elif](link4)   | Eda Mete                 | Developer            | [LinkedIn](https://www.linkedin.com/in/edamete)| Aktif |
 | ![Can](link5)    | Yusuf Yaşar              | Developer            | [LinkedIn](https://linkedin.com/in/can)   | Pasif |
 ---
  # Proje Açıklaması:
