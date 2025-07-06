@@ -2,7 +2,9 @@
 
 
 **TherapAI** – Gerçek Zamanlı Postür Analiz ve Duruş Takip Asistanı
-  
+---
+# Ürün Logosu
+
 
 ---
 | Fotoğraf         | İsim                     | Görevler             | LinkedIn Profili                          |  Durum |
