@@ -2,9 +2,10 @@
 
 
 **TherapAI** – Gerçek Zamanlı Postür Analiz ve Duruş Takip Asistanı
+
 ---
 # Ürün Logosu
-
+<img src="images/Logo.png" width="200" />
 
 ---
 | Fotoğraf         | İsim                     | Görevler             | LinkedIn Profili                          |  Durum |
@@ -88,7 +89,7 @@ TherapAI, kullanıcıların duruşlarını gerçek zamanlı olarak analiz eden v
 **Product Backlog URL**
 
 Product backlog’u Trello üzerinde yönetiyoruz.  
-Trello panosuna erişim için [URL buraya eklenecek].
+Trello panosuna erişim için https://trello.com/b/lo2LQaFi.
 
 ---
 
