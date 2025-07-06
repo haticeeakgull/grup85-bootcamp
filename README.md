@@ -1,7 +1,7 @@
 # Ürün İsmi
 
 
-**PostuRek** – Gerçek Zamanlı Postür Analiz ve Duruş Takip Asistanı
+**TherapAI** – Gerçek Zamanlı Postür Analiz ve Duruş Takip Asistanı
   
 
 ---
@@ -9,24 +9,24 @@
 | ---------------- | ------                   | -------------------- | ------------------------------------------| ----- |
 | ![Hasan](link1)  | Hasan Barış Sunar        | Scrum Master         | [LinkedIn](https://www.linkedin.com/in/hasan-bar%C4%B1%C5%9F-sunar-48b26a174/) | Aktif |
 | ![Ayşe](link2)   | Kayra Semercioğlu        | Product Owner        | [LinkedIn](https://linkedin.com/in/ayse)  | Aktif |
-| ![Mehmet](link3) | Hatice Aygül             | Developer            | [LinkedIn](https://linkedin.com/in/mehmet)| Aktif |
+| ![Mehmet](link3) | Hatice Aygül             | Developer            | [LinkedIn](https://www.linkedin.com/in/haticeeakg%C3%BCll?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )| Aktif |
 | ![Elif](link4)   | Eda Mete                 | Developer            | [LinkedIn](https://www.linkedin.com/in/edamete)| Aktif |
 | ![Can](link5)    | Yusuf Yaşar              | Developer            | [LinkedIn](https://linkedin.com/in/can)   | Pasif |
 ---
  # Proje Açıklaması:
 
-PostuRek, kullanıcıların duruşlarını gerçek zamanlı olarak analiz eden ve yanlış pozisyonlarda anında uyarı veren yenilikçi bir mobil sağlık uygulamasıdır. Uygulama, MediaPipe teknolojisi sayesinde vücuttaki iskelet noktalarını hassas şekilde tespit eder ve boyun, omuz, sırt ile bel açılarını temel geometrik yöntemlerle değerlendirir. Özellikle uzun süre masa başında çalışan bireylerde sıkça görülen duruş bozukluklarının önüne geçmeyi ve kullanıcıda ergonomik farkındalık oluşturmayı hedefler. Böylece PostuRek, daha sağlıklı bir yaşam ve iş ortamı için etkin bir destek sağlar.
+TherapAI, kullanıcıların duruşlarını gerçek zamanlı olarak analiz eden ve yanlış pozisyonlarda anında uyarı veren yenilikçi bir mobil sağlık uygulamasıdır. Uygulama, MediaPipe teknolojisi sayesinde vücuttaki iskelet noktalarını hassas şekilde tespit eder ve boyun, omuz, sırt ile bel açılarını temel geometrik yöntemlerle değerlendirir. Özellikle uzun süre masa başında çalışan bireylerde sıkça görülen duruş bozukluklarının önüne geçmeyi ve kullanıcıda ergonomik farkındalık oluşturmayı hedefler. Böylece TherapAI, daha sağlıklı bir yaşam ve iş ortamı için etkin bir destek sağlar.
 
 
 ---
 
  # Kullanılan Teknolojiler:
 
-- **Yazılım Dili:** Python (AI Modülü), JavaScript (React Native)
+- **Yazılım Dili:** Python (AI Modülü), Dart (Flutter)
 
 - **Geliştirme Ortamı:** Visual Studio Code
 
-- **Mobil Geliştirme:** React Native (Android ve iOS)
+- **Mobil Geliştirme:** Flutter (Android ve iOS)
 
 - **Yapay Zeka Çekirdeği:** MediaPipe Pose
 
@@ -74,7 +74,7 @@ PostuRek, kullanıcıların duruşlarını gerçek zamanlı olarak analiz eden v
   Kullanıcıların duruş analiz geçmişi, Firebase veritabanı üzerinden güvenli bir şekilde saklanır. Bu veriler daha sonra istatistiksel takip ve ilerleme değerlendirmesi için kullanılabilir.
 
 - **Mobil arayüz ile kolay kullanım:**  
-  React Native ile geliştirilen kullanıcı arayüzü; hem Android hem de iOS cihazlarda sorunsuz çalışacak şekilde tasarlanmıştır. Temiz ve sezgisel ekranlar sayesinde kullanım kolaylığı sağlar.
+  Flutter ile geliştirilen kullanıcı arayüzü; hem Android hem de iOS cihazlarda tutarlı ve yüksek performanslı bir deneyim sunacak şekilde tasarlanmıştır. Temiz, sezgisel ve responsive ekranlar sayesinde kullanıcı dostu bir kullanım sağlar.
 
 - **Kullanıcı dostu, minimal tasarım:**  
   Gereksiz karmaşadan uzak, sade ve modern bir arayüz sunularak uygulamanın hem estetik hem de fonksiyonel olması hedeflenmiştir.
@@ -98,7 +98,7 @@ Trello panosuna erişim için [URL buraya eklenecek].
 ####  Sprint Notları  
 - Proje kapsamında kullanılacak ana teknolojiler belirlendi:  
  - Yapay Zeka için MediaPipe Pose  
- - Mobil uygulama geliştirme için React Native  
+ - Mobil uygulama geliştirme için Flutter (Dart)
 - Backend ve veri saklama için Firebase  
 - Proje hedefleri ve öncelikli modüller üzerinde ekip içinde fikir birliğine varıldı.  
 - Uygulamanın temel işlevleri, kullanıcı ihtiyaçları ve teknik gereksinimler detaylandırıldı.  
@@ -121,11 +121,14 @@ Bu sprintin başarıyla tamamlanması için toplam 50 puan alınması hedeflenmi
 -  Kullanıcı ihtiyaçları ve önceliklerin belirlenmesi (10 puan)  
 -  UI/UX için ilk fikirlerin toplanması ve eskizler (10 puan)  
 
+#### Sprint 1 Sonuç:
+- **Hedeflenen Puan:** 50  
+- **Gerçekleşen Puan:** **45** (Firebase giriş sistemi altyapısı testleri tamamlanmadığı için 5 puan düşülmüştür)
 ---
 
 ####  Daily Scrum  
 - Günlük toplantılar **WhatsApp** ve **Google Meet** üzerinden gerçekleştirilmiştir.  
-- Toplantı notları ve tartışmalar **Google Drive** üzerinde paylaşılmıştır.
+- Toplantı notları ve tartışmalar **Konuşma ve Toplantı Kayıtları** üzerinde paylaşılmıştır.
  <details>
 <summary><strong> Konuşma ve Toplantı Kayıtları</strong></summary>
 
