@@ -11,7 +11,7 @@
 | Fotoğraf         | İsim                     | Görevler             | LinkedIn Profili                          |  Durum |
 | ---------------- | ------                   | -------------------- | ------------------------------------------| ----- |
 | ![Hasan](link1)  | Hasan Barış Sunar        | Scrum Master         | [LinkedIn](https://www.linkedin.com/in/hasan-bar%C4%B1%C5%9F-sunar-48b26a174/) | Aktif |
-| ![Ayşe](link2)   | Kayra Semercioğlu        | Product Owner        | [LinkedIn](https://linkedin.com/in/ayse)  | Aktif |
+| ![Ayşe](link2)   | Kayra Semercioğlu        | Product Owner        | [LinkedIn](https://www.linkedin.com/in/kayra-semercioglu/)  | Aktif |
 | ![Mehmet](link3) | Hatice Aygül             | Developer            | [LinkedIn](https://www.linkedin.com/in/haticeeakg%C3%BCll?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )| Aktif |
 | ![Elif](link4)   | Eda Mete                 | Developer            | [LinkedIn](https://www.linkedin.com/in/edamete)| Aktif |
 | ![Can](link5)    | Yusuf Yaşar              | Developer            | [LinkedIn](https://linkedin.com/in/can)   | Pasif |
@@ -93,8 +93,8 @@ Trello panosuna erişim için https://trello.com/b/lo2LQaFi.
 <details>
 <summary>Görselleri Görüntüle</summary>
 
-![Backlog Görsel 1](images/Trello1.jpg)  
-![Backlog Görsel 2](images/Trello2.jpg)  
+![Backlog Görsel 1](images/Trello1.png)  
+![Backlog Görsel 2](images/trello2.png)  
 
 </details>
 ---
