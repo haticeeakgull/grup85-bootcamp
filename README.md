@@ -248,12 +248,12 @@ Bu sprintin başarıyla tamamlanması için 60 puan alınması hedeflenmiştir.
 </p>
 
 <p align="center">
-  <img src="images/sprint2_ui1.jpg" width="300"/><br>
+  <img src="images/sprint2_ui1.jpg" width="500"/><br>
   <em>UI Tasarımı - Giriş Ekranı</em>
 </p>
 
 <p align="center">
-  <img src="images/sprint2_firebase.jpg" width="300"/><br>
+  <img src="images/sprint2_firebase.jpg" width="500"/><br>
   <em>Firebase Kurulumu</em>
 </p>
 
