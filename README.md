@@ -190,6 +190,95 @@ Bu sprintin başarıyla tamamlanması için toplam 50 puan alınması hedeflenmi
 
 </details>
 
+<details>
+  <summary><strong> SPRİNT 2 </strong></summary>
+
+### Sprint 2 - Geliştirme Sürecine Geçiş ve Teknik Altyapının Kurulması
+
+#### Sprint Notları
+- Üç geliştirici rolü netleştirildi ve görev dağılımı yapıldı:
+  - **Backend Geliştiricisi:** Firebase Authentication, Firestore ve Storage servisleri aktif hale getirildi. React Native entegrasyonu başlatıldı.
+  - **AI Geliştiricisi:** MediaPipe Pose ile duruş analizi için temel algoritma araştırmaları yapıldı. Deadlift ve squat egzersizlerine odaklanan bilimsel çerçeve belirlendi.
+  - **UI/UX ve QA Geliştiricisi:** Giriş ekranının tasarımı tamamlandı. Arayüz kodlamasına başlandı.
+
+- Yapay Zeka altyapısı için uzman seviyede bilimsel analiz raporu oluşturuldu:
+  - Doğru form tanımı, eklem açısı ölçümü, hata tespiti ve tekrar sayımı mantığı belirlendi.
+  - Deadlift ve squat hareketleri için detaylı biyomekanik veri tabanı hazırlanıyor.
+
+- Firebase tarafında Authentication, Firestore ve Storage servisleri başarıyla kuruldu.
+- React Native ile Firebase bağlantısı tamamlandı. Giriş/Kayıt ekranlarına işlevsellik eklenmeye başlandı.
+
+---
+
+#### Sprint Puanlaması (Toplam 200 Puan)
+
+Sprint 2, geliştirme sürecinin başlamasını, yapay zeka taslağının oluşturulmasını ve temel ekranların hazırlanmasını kapsar.  
+Bu sprintin başarıyla tamamlanması için 60 puan alınması hedeflenmiştir.
+
+#### Planlanan Ana Görevler ve Puanlama
+- Firebase altyapısının kurulması ve bağlantının sağlanması (15 puan)  
+- UI/UX giriş/kayıt ekranlarının tasarlanması (10 puan)  
+- MediaPipe araştırması ve form analiz raporu hazırlanması (20 puan)  
+- React Native entegrasyonunun başlatılması (10 puan)  
+- Bilimsel veri çerçevesi ve poz analizi metriklerinin oluşturulması (5 puan)
+
+#### Sprint 2 Sonuç:
+- **Hedeflenen Puan:** 60  
+- **Gerçekleşen Puan:** **60** (Tüm görevler başarıyla tamamlandı.)
+
+---
+
+#### Daily Scrum  
+- Günlük iletişim **WhatsApp** ve haftalık değerlendirmeler **Google Meet** üzerinden sürdürüldü.  
+- Aşağıda toplantı ve ekran görüntülerine ulaşabilirsiniz:
+
+<details>
+<summary><strong>Toplantı ve Geliştirme Görselleri</strong></summary>
+
+<br>
+
+<p align="center">
+  <img src="images/sprint2_meet1.jpg" width="300"/><br>
+  <em>Toplantı 1</em>
+</p>
+
+<p align="center">
+  <img src="images/sprint2_whatsapp1.jpg" width="300"/><br>
+  <em>WhatsApp Görüşmesi</em>
+</p>
+
+<p align="center">
+  <img src="images/sprint2_ui1.jpg" width="300"/><br>
+  <em>UI Tasarımı - Giriş Ekranı</em>
+</p>
+
+<p align="center">
+  <img src="images/sprint2_firebase.jpg" width="300"/><br>
+  <em>Firebase Kurulumu</em>
+</p>
+
+</details>
+
+---
+
+#### Sprint Review  
+- Projenin teknik altyapısı başarıyla kuruldu.  
+- Yapay zeka motorunun temel algoritmaları için bilimsel yaklaşım netleştirildi.  
+- UI/UX arayüz tasarımları geliştirilmeye başlandı.  
+- Ekip içi görev dağılımı uyumlu şekilde ilerliyor.
+
+---
+
+#### Sprint Retrospective  
+- Geliştirici rollerinin netleşmesi süreci hızlandırdı.  
+- Firebase kurulumu beklenenden hızlı tamamlandı.  
+- MediaPipe araştırmaları beklentileri karşıladı.  
+- Görsel ve bilimsel kaynakların belgelenmesi, proje dökümantasyonuna katkı sağladı.  
+- Bir sonraki sprintte AI modelinin temel yapısına geçilecek, arayüz detaylandırılacak.
+
+---
+</details>
+
 
 
 
