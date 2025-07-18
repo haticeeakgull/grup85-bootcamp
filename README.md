@@ -238,15 +238,18 @@ Bu sprintin başarıyla tamamlanması için 60 puan alınması hedeflenmiştir.
 <br>
 
 <p align="center">
-  <img src="images/wp1.jpg" width="500"/><br>
+  <img src="images/wp3.jpg" width="500"/><br>
   <em>WhatsApp Görüşmesi</em>
 </p>
 
 <p align="center">
+  <img src="images/wp4.jpg" width="500"/><br>
+  <em>WhatsApp Görüşmesi</em>
+</p>
+<p align="center">
   <img src="images/wp2.jpg" width="500"/><br>
   <em>WhatsApp Görüşmesi</em>
 </p>
-
 
 </details>
 
