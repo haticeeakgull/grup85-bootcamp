@@ -228,6 +228,7 @@ Bu sprintin başarıyla tamamlanması için 60 puan alınması hedeflenmiştir.
 
 ---
 #### Sprint Board Update:  
+
 <details>
 <summary><strong>Ekran Görüntüleri</strong></summary>
 
