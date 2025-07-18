@@ -227,6 +227,25 @@ Bu sprintin başarıyla tamamlanması için 60 puan alınması hedeflenmiştir.
 - **Gerçekleşen Puan:** **60** (Tüm görevler başarıyla tamamlandı.)
 
 ---
+#### Sprint Board Update:  
+<details>
+<summary><strong>Ekran Görüntüleri</strong></summary>
+
+<br>
+
+<p align="center">
+  <img src="trello3.jpg" width="500"/><br>
+  <em>Ekran Görüntüsü 1</em>
+</p>
+
+<p align="center">
+  <img src="images/trello4.jpg" width="500"/><br>
+  <em>Ekran Görüntüsü 2</em>
+
+
+</details>
+
+---
 
 #### Daily Scrum  
 - Günlük iletişim **WhatsApp** ve haftalık değerlendirmeler **Google Meet** üzerinden sürdürüldü.  
