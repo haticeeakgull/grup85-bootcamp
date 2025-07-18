@@ -247,15 +247,6 @@ Bu sprintin başarıyla tamamlanması için 60 puan alınması hedeflenmiştir.
   <em>WhatsApp Görüşmesi</em>
 </p>
 
-<p align="center">
-  <img src="images/sprint2_ui1.jpg" width="500"/><br>
-  <em>UI Tasarımı - Giriş Ekranı</em>
-</p>
-
-<p align="center">
-  <img src="images/sprint2_firebase.jpg" width="500"/><br>
-  <em>Firebase Kurulumu</em>
-</p>
 
 </details>
 
