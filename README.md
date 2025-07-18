@@ -242,7 +242,7 @@ Bu sprintin başarıyla tamamlanması için 60 puan alınması hedeflenmiştir.
 <p align="center">
   <img src="images/trello4.jpg" width="500"/><br>
   <em>Ekran Görüntüsü 2</em>
-
+</p>
 
 </details>
 
