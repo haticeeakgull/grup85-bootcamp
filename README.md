@@ -233,7 +233,7 @@ Bu sprintin başarıyla tamamlanması için 60 puan alınması hedeflenmiştir.
 - Aşağıda toplantı ve ekran görüntülerine ulaşabilirsiniz:
 
 <details>
-<summary><strong>Toplantı ve Geliştirme Görselleri</strong></summary>
+<summary><strong>Toplantı Görselleri</strong></summary>
 
 <br>
 
@@ -255,6 +255,23 @@ Bu sprintin başarıyla tamamlanması için 60 puan alınması hedeflenmiştir.
 <p align="center">
   <img src="images/sprint2_firebase.jpg" width="300"/><br>
   <em>Firebase Kurulumu</em>
+</p>
+
+</details>
+
+<details>
+<summary><strong>Geliştirme Görselleri</strong></summary>
+
+<br>
+
+<p align="center">
+  <img src="images/Giris1.jpg" width="300"/><br>
+  <em>Giriş Ekranı 1</em>
+</p>
+
+<p align="center">
+  <img src="images/Giris2.jpg" width="300"/><br>
+  <em>WhatsApp Giriş Ekranı 2</em>
 </p>
 
 </details>
