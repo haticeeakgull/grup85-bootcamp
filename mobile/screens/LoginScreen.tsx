@@ -22,6 +22,10 @@ export default function LoginScreen() {
     console.log('Login button pressed');
   };
 
+  const handleRegister = () => {
+    console.log('Register button pressed');
+  };
+
   return (
       <SafeAreaView style={styles.container}>
         <KeyboardAvoidingView
@@ -67,6 +71,11 @@ export default function LoginScreen() {
 
             <TouchableOpacity style={styles.loginButton} onPress={handleLogin}>
               <Text style={styles.loginButtonText}>Giriş Yap</Text>
+            </TouchableOpacity>
+            <TouchableOpacity style={styles.registerButton} onPress={handleRegister}>
+              <Text style={styles.loginButtonText}>
+                + Kayıt Ol
+              </Text>
             </TouchableOpacity>
           </View>
         </KeyboardAvoidingView>
@@ -130,6 +139,17 @@ const styles = StyleSheet.create({
     paddingVertical: 14,
     borderRadius: 10,
     marginTop: 28,
+    shadowColor: '#1a3957',
+    shadowOpacity: 0.25,
+    shadowOffset: { width: 0, height: 3 },
+    shadowRadius: 5,
+    elevation: 3,
+  },
+  registerButton: {
+    backgroundColor: 'rgba(26,57,87,0.45)',
+    paddingVertical: 14,
+    borderRadius: 10,
+    marginTop: 7,
     shadowColor: '#1a3957',
     shadowOpacity: 0.25,
     shadowOffset: { width: 0, height: 3 },
