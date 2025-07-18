@@ -271,7 +271,7 @@ Bu sprintin başarıyla tamamlanması için 60 puan alınması hedeflenmiştir.
 
 <p align="center">
   <img src="images/Giris2.jpg" width="300"/><br>
-  <em>WhatsApp Giriş Ekranı 2</em>
+  <em>Giriş Ekranı 2</em>
 </p>
 
 </details>
