@@ -301,6 +301,11 @@ Bu sprintin başarıyla tamamlanması için 60 puan alınması hedeflenmiştir.
   <em>Giriş Ekranı 2</em>
 </p>
 
+<p align="center">
+  <img src="images/analiz.jpg" width="300"/><br>
+  <em>Duruş Analizi</em>
+</p>
+
 </details>
 
 ---
