@@ -287,8 +287,8 @@ Bu sprintin başarıyla tamamlanması için 60 puan alınması hedeflenmiştir.
 <br>
 
 <p align="center">
-  <img src="images/Kayit.jpg" width="300"/><br>
-  <em>Kayıt Ekranı 2</em>
+  <img src="images/Kayit1.jpg" width="300"/><br>
+  <em>Kayıt Ekranı</em>
 </p>
 
 <p align="center">
