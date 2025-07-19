@@ -193,6 +193,14 @@ Bu sprintin başarıyla tamamlanması için toplam 50 puan alınması hedeflenmi
 <details>
   <summary><strong> SPRİNT 2 </strong></summary>
 
+| İsim |  Durum |
+| ---- | ----- |
+| Hasan Barış Sunar| Aktif |
+| Kayra Semercioğlu| Aktif |
+| Hatice Aygül| Aktif |
+| Eda Mete| Aktif |
+| Yusuf Yaşar|Pasif |
+---
 ### Sprint 2 - Geliştirme Sürecine Geçiş ve Teknik Altyapının Kurulması
 
 #### Sprint Notları
