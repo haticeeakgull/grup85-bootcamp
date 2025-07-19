@@ -258,7 +258,7 @@ Bu sprintin başarıyla tamamlanması için 60 puan alınması hedeflenmiştir.
 
 #### Daily Scrum  
 - Günlük iletişim **WhatsApp** ve haftalık değerlendirmeler **Google Meet** üzerinden sürdürüldü.  
-- Aşağıda toplantı ve ekran görüntülerine ulaşabilirsiniz:
+- Aşağıda ekran görüntülerine ulaşabilirsiniz:
 
 <details>
 <summary><strong>Toplantı Görselleri</strong></summary>
@@ -285,6 +285,11 @@ Bu sprintin başarıyla tamamlanması için 60 puan alınması hedeflenmiştir.
 <summary><strong>Geliştirme Görselleri</strong></summary>
 
 <br>
+
+<p align="center">
+  <img src="images/Kayit.jpg" width="300"/><br>
+  <em>Kayıt Ekranı 2</em>
+</p>
 
 <p align="center">
   <img src="images/Giris2.jpg" width="300"/><br>
