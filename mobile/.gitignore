@@ -4,3 +4,13 @@
 
 expo-env.d.ts
 # @end expo-cli
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.development
+
+# Firebase configuration files
+google-services.json
+GoogleService-Info.plist

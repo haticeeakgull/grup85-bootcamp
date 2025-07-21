@@ -10,20 +10,41 @@ import {
   Dimensions,
   KeyboardAvoidingView,
   Platform,
+  Alert,
+  ActivityIndicator,
 } from 'react-native';
+import { useAuth } from '../contexts/AuthContext';
 
 const { width } = Dimensions.get('window');
 
-export default function LoginScreen() {
+interface LoginScreenProps {
+  onNavigateToRegister: () => void;
+}
+
+export default function LoginScreen({ onNavigateToRegister }: LoginScreenProps) {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
+  const { signIn, loading, error } = useAuth();
 
-  const handleLogin = () => {
-    console.log('Login button pressed');
+  const handleLogin = async () => {
+    if (!email || !password) {
+      Alert.alert('Hata', 'Lütfen e-posta ve parola alanlarını doldurun');
+      return;
+    }
+
+    try {
+      await signIn(email, password);
+      Alert.alert('Başarılı', 'Giriş başarılı!');
+    } catch {
+      // Error is handled in AuthContext and displayed via error state
+      if (error) {
+        Alert.alert('Hata', error);
+      }
+    }
   };
 
   const handleRegister = () => {
-    console.log('Register button pressed');
+    onNavigateToRegister();
   };
 
   return (
@@ -54,6 +75,7 @@ export default function LoginScreen() {
                   keyboardType="email-address"
                   autoCapitalize="none"
                   placeholderTextColor="#aaa"
+                  editable={!loading}
               />
             </View>
 
@@ -66,13 +88,26 @@ export default function LoginScreen() {
                   placeholder="Parolanız"
                   secureTextEntry
                   placeholderTextColor="#aaa"
+                  editable={!loading}
               />
             </View>
 
-            <TouchableOpacity style={styles.loginButton} onPress={handleLogin}>
-              <Text style={styles.loginButtonText}>Giriş Yap</Text>
+            <TouchableOpacity 
+              style={[styles.loginButton, loading && styles.disabledButton]} 
+              onPress={handleLogin}
+              disabled={loading}
+            >
+              {loading ? (
+                <ActivityIndicator color="#fff" />
+              ) : (
+                <Text style={styles.loginButtonText}>Giriş Yap</Text>
+              )}
             </TouchableOpacity>
-            <TouchableOpacity style={styles.registerButton} onPress={handleRegister}>
+            <TouchableOpacity 
+              style={styles.registerButton} 
+              onPress={handleRegister}
+              disabled={loading}
+            >
               <Text style={styles.loginButtonText}>
                 + Kayıt Ol
               </Text>
@@ -144,6 +179,9 @@ const styles = StyleSheet.create({
     shadowOffset: { width: 0, height: 3 },
     shadowRadius: 5,
     elevation: 3,
+  },
+  disabledButton: {
+    backgroundColor: '#999',
   },
   registerButton: {
     backgroundColor: 'rgba(26,57,87,0.45)',
