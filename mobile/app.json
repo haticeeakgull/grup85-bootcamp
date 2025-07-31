@@ -16,11 +16,23 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
-    },
-    "web": {
+      "edgeToEdgeEnabled": true,
+      "package": "com.grup85bootcamp" 
+    }, 
+    "web": { 
       "bundler": "metro",
       "favicon": "./assets/images/favicon.png"
+    },
+    "extra": { 
+      "firebaseConfig": {
+        "apiKey": "AIzaSyCydETG8I2n7UWuZM0GyvGpTy8Z1HeqVKA",
+        "authDomain": "therapai-35b73.firebaseapp.com",
+        "projectId": "therapai-35b73",
+        "storageBucket": "therapai-35b73.firebasestorage.app",
+        "messagingSenderId": "393739220460",
+        "appId": "1:393739220460:web:841ed9ee50d1422e287cc9",
+        "measurementId": "G-362FYP09QM"
+      }
     }
   }
 }
