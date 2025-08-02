@@ -29,7 +29,7 @@ TherapAI, kullanıcıların duruşlarını gerçek zamanlı olarak analiz eden v
 
 - **Geliştirme Ortamı:** Visual Studio Code
 
-- **Mobil Geliştirme:** Flutter (Android ve iOS)
+- **Mobil Geliştirme:** React Native (Android ve iOS)
 
 - **Yapay Zeka Çekirdeği:** MediaPipe Pose
 
@@ -50,13 +50,13 @@ TherapAI, kullanıcıların duruşlarını gerçek zamanlı olarak analiz eden v
   Özellikle çevrim içi eğitim sürecinde uzun süre oturan öğrencilerde yaygın görülen kambur duruş ve baş öne eğik pozisyon gibi postür sorunlarının önüne geçmek için tasarlanmıştır.
 
 - **Fizyoterapi desteği alan bireyler:**  
-  Rehabilitasyon sürecinde olan veya sırt, boyun ve bel ağrısı yaşayan bireyler, PostuRek aracılığıyla evde kendi duruşlarını izleyip düzeltici geri bildirimler alabilir.
+  Rehabilitasyon sürecinde olan veya sırt, boyun ve bel ağrısı yaşayan bireyler, TherapAI aracılığıyla evde kendi duruşlarını izleyip düzeltici geri bildirimler alabilir.
 
 - **Spor yapanlar / Fitness kullanıcıları (Gym):**  
   Egzersiz sırasında doğru postür hayati önem taşır. Uygulama, spor esnasında yapılan hareketlerde omurga ve duruş pozisyonlarının korunmasına yardımcı olabilir. Özellikle ağırlık çalışmaları sırasında omuz ve bel hizasının korunması için anlık uyarılar sunabilir.
 
 - **Genel kullanıcılar:**  
-  Günlük yaşamda daha sağlıklı ve estetik bir duruşa sahip olmak isteyen herkes, PostuRek’i bir rehber olarak kullanabilir.
+  Günlük yaşamda daha sağlıklı ve estetik bir duruşa sahip olmak isteyen herkes, TherapAI’ı bir rehber olarak kullanabilir.
 
 
 
@@ -77,7 +77,7 @@ TherapAI, kullanıcıların duruşlarını gerçek zamanlı olarak analiz eden v
   Kullanıcıların duruş analiz geçmişi, Firebase veritabanı üzerinden güvenli bir şekilde saklanır. Bu veriler daha sonra istatistiksel takip ve ilerleme değerlendirmesi için kullanılabilir.
 
 - **Mobil arayüz ile kolay kullanım:**  
-  Flutter ile geliştirilen kullanıcı arayüzü; hem Android hem de iOS cihazlarda tutarlı ve yüksek performanslı bir deneyim sunacak şekilde tasarlanmıştır. Temiz, sezgisel ve responsive ekranlar sayesinde kullanıcı dostu bir kullanım sağlar.
+  React Native ile geliştirilen kullanıcı arayüzü; hem Android hem de iOS cihazlarda tutarlı ve yüksek performanslı bir deneyim sunacak şekilde tasarlanmıştır. Temiz, sezgisel ve responsive ekranlar sayesinde kullanıcı dostu bir kullanım sağlar.
 
 - **Kullanıcı dostu, minimal tasarım:**  
   Gereksiz karmaşadan uzak, sade ve modern bir arayüz sunularak uygulamanın hem estetik hem de fonksiyonel olması hedeflenmiştir.
@@ -328,6 +328,114 @@ Bu sprintin başarıyla tamamlanması için 60 puan alınması hedeflenmiştir.
 ---
 </details>
 
+<details>
+  <summary><strong> SPRİNT 3 </strong></summary>
+
+| İsim |  Durum |
+| ---- | ----- |
+| Hasan Barış Sunar| Aktif |
+| Kayra Semercioğlu| Aktif |
+| Hatice Aygül| Aktif |
+| Eda Mete| Aktif |
+| Yusuf Yaşar|Pasif |
+---
+### Sprint 3 - Duruş Analizi Uygulamasının Tamamlanması ve Geribildirim Mekanizması
+
+#### Sprint Notları
+- Deadlift ve squat egzersizleri için **AI destekli duruş analizi** başarıyla tamamlandı.
+  - Görüntü alındığında sistem, eklem açılarını analiz ederek kullanıcının formunu değerlendirmekte.
+  - Sistem, yanlış duruşları algılayıp kullanıcıya hangi bölgesini düzeltmesi gerektiğini ekranda belirtmektedir.
+  - **Geribildirim** eklendi.
+
+- MediaPipe Pose üzerinden elde edilen veriler işlenerek:
+  - **Diz, kalça ve gövde açıları** hesaplandı.
+  - Kullanıcıya anlık yönlendirme sağlandı.
+
+- UI/UX tasarım süreci tamamlandı:
+  - Egzersiz analizi için arayüz geliştirildi.
+  - Kullanıcı deneyimini artıracak görsel uyarılar ve sade tasarım ilkeleri uygulandı.
+
+- Sprint 2'de belirlenen geliştirme noktaları iyileştirildi:
+  - Arayüz geçişleri ve buton fonksiyonları düzenlendi.
+
+---
+
+#### Sprint Puanlaması (Toplam 200 Puan)
+
+Sprint 3, duruş analizi modülünün aktif hale gelmesini, AI modelinin pratik uygulanabilirliğini ve kullanıcı arayüzünün tamamlanmasını kapsar.  
+Bu sprintin başarıyla tamamlanması için 80 puan alınması hedeflenmiştir.
+
+#### Planlanan Ana Görevler ve Puanlama
+- Deadlift ve squat için açı analiz algoritmasının uygulanması (20 puan)  
+- Otomatik tekrar sayımı ve geribildirim mekanizmasının oluşturulması (20 puan)  
+- Duruş analizi UI tasarımının tamamlanması (15 puan)  
+- Sprint 2'deki sistem iyileştirmelerinin yapılması (10 puan)  
+- Kullanıcıya görsel uyarı sisteminin entegrasyonu (15 puan)
+
+#### Sprint 3 Sonuç:
+- **Hedeflenen Puan:** 80  
+- **Gerçekleşen Puan:** **80** (Tüm görevler başarıyla tamamlandı.)
+
+---
+#### Sprint Board Update:  
+
+<details>
+<summary><strong>Ekran Görüntüleri</strong></summary>
+
+<br>
+
+<p align="center">
+  <img src="images/analiz.jpg" width="500"/><br>
+  <em>Duruş Analizi - AI Geribildirim Ekranı</em>
+</p>
+
+</details>
+
+---
+
+#### Daily Scrum  
+- Günlük iletişim **WhatsApp** ve haftalık değerlendirmeler **Google Meet** üzerinden sürdürüldü.  
+- Aşağıda ekran görüntülerine ulaşabilirsiniz:
+
+<details>
+<summary><strong>Toplantı Görselleri</strong></summary>
+
+<br>
+
+<p align="center">
+  <img src="images/wp3.jpg" width="500"/><br>
+  <em>WhatsApp Görüşmesi</em>
+</p>
+
+<p align="center">
+  <img src="images/wp4.jpg" width="500"/><br>
+  <em>WhatsApp Görüşmesi</em>
+</p>
+<p align="center">
+  <img src="images/wp2.jpg" width="500"/><br>
+  <em>WhatsApp Görüşmesi</em>
+</p>
+
+</details>
+
+---
+
+#### Sprint Review  
+- Duruş analiz modülü başarıyla devreye alındı.  
+- Gerçek zamanlı poz ölçümü ve kullanıcıya yönlendirme sistemi çalışır durumda.  
+- Arayüz tamamlandı; kullanıcı deneyimi geliştirildi.  
+- Tüm görevler planlandığı şekilde tamamlandı.
+
+---
+
+#### Sprint Retrospective  
+- Geribildirim mekanizması uygulamanın işlevselliğini artırdı.  
+- Takım içi iş bölümü sorunsuz devam etti.  
+- MediaPipe Pose kullanımında elde edilen deneyim, geliştirme süresini kısalttı.  
+- Tasarım uyumu ve sistem stabilitesi artırıldı.  
+
+---
+</details>
 
 
 
