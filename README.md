@@ -403,16 +403,16 @@ Bu sprintin başarıyla tamamlanması için 80 puan alınması hedeflenmiştir.
 <br>
 
 <p align="center">
-  <img src="images/wp3.jpg" width="500"/><br>
+  <img src="images/whatsapp1.jpg" width="500"/><br>
   <em>WhatsApp Görüşmesi</em>
 </p>
 
 <p align="center">
-  <img src="images/wp4.jpg" width="500"/><br>
+  <img src="images/whatsapp2.jpg" width="500"/><br>
   <em>WhatsApp Görüşmesi</em>
 </p>
 <p align="center">
-  <img src="images/wp2.jpg" width="500"/><br>
+  <img src="images/whatsapp3.jpg" width="500"/><br>
   <em>WhatsApp Görüşmesi</em>
 </p>
 
@@ -423,23 +423,23 @@ Bu sprintin başarıyla tamamlanması için 80 puan alınması hedeflenmiştir.
 <br>
 
 <p align="center">
-  <img src="images/Kayit1.jpg" width="300"/><br>
-  <em>Kayıt Ekranı</em>
-</p>
-
-<p align="center">
-  <img src="images/Giris2.jpg" width="300"/><br>
-  <em>Giriş Ekranı 1</em>
-</p>
-
-<p align="center">
-  <img src="images/Giris1.jpg" width="300"/><br>
-  <em>Giriş Ekranı 2</em>
+  <img src="images/uygulama1.jpg" width="300"/><br>
+  <em>Ana Ekran</em>
 </p>
 
 <p align="center">
   <img src="images/analiz.jpg" width="300"/><br>
-  <em>Duruş Analizi</em>
+  <em> Analiz Sonucu</em>
+</p>
+
+<p align="center">
+  <img src="images/analiz2.jpg" width="300"/><br>
+  <em>Giriş Analiz Sonucu</em>
+</p>
+
+<p align="center">
+  <img src="images/analiz3.jpg" width="300"/><br>
+  <em>Analiz Seçim</em>
 </p>
 
 </details>
