@@ -367,14 +367,14 @@ Bu sprintin başarıyla tamamlanması için 80 puan alınması hedeflenmiştir.
 
 #### Planlanan Ana Görevler ve Puanlama
 - Deadlift ve squat için açı analiz algoritmasının uygulanması (20 puan)  
-- Otomatik tekrar sayımı ve geribildirim mekanizmasının oluşturulması (20 puan)  
-- Duruş analizi UI tasarımının tamamlanması (15 puan)  
-- Sprint 2'deki sistem iyileştirmelerinin yapılması (10 puan)  
-- Kullanıcıya görsel uyarı sisteminin entegrasyonu (15 puan)
+- Duruş analizi UI tasarımının tamamlanması (25 puan)  
+- Açıya göre değerlendirme ve geribildirim metinlerinin entegrasyonu (20 puan)  
+- Sprint 2 geliştirmelerinin iyileştirilmesi ve sistem optimizasyonu (15 puan)  
+- Test ve Hata Ayıklama Süreci Tamamlandı (10 puan)
 
 #### Sprint 3 Sonuç:
-- **Hedeflenen Puan:** 80  
-- **Gerçekleşen Puan:** **80** (Tüm görevler başarıyla tamamlandı.)
+- **Hedeflenen Puan:** 90  
+- **Gerçekleşen Puan:** **90** (Tüm görevler başarıyla tamamlandı.)
 
 ---
 #### Sprint Board Update:  
