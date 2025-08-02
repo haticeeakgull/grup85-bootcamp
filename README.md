@@ -385,10 +385,13 @@ Bu sprintin başarıyla tamamlanması için 80 puan alınması hedeflenmiştir.
 <br>
 
 <p align="center">
-  <img src="images/analiz.jpg" width="500"/><br>
-  <em>Duruş Analizi - AI Geribildirim Ekranı</em>
+  <img src="images/trello7.jpg" width="500"/><br>
+  <em>Duruş Analizi - Trello EkranGörüntüsü 1</em>
 </p>
-
+<p align="center">
+  <img src="images/trello8.jpg" width="500"/><br>
+  <em>Duruş Analizi - Trello EkranGörüntüsü 2</em>
+</p>
 </details>
 
 ---
