@@ -417,6 +417,32 @@ Bu sprintin başarıyla tamamlanması için 80 puan alınması hedeflenmiştir.
 </p>
 
 </details>
+<details>
+<summary><strong>Geliştirme Görselleri</strong></summary>
+
+<br>
+
+<p align="center">
+  <img src="images/Kayit1.jpg" width="300"/><br>
+  <em>Kayıt Ekranı</em>
+</p>
+
+<p align="center">
+  <img src="images/Giris2.jpg" width="300"/><br>
+  <em>Giriş Ekranı 1</em>
+</p>
+
+<p align="center">
+  <img src="images/Giris1.jpg" width="300"/><br>
+  <em>Giriş Ekranı 2</em>
+</p>
+
+<p align="center">
+  <img src="images/analiz.jpg" width="300"/><br>
+  <em>Duruş Analizi</em>
+</p>
+
+</details>
 
 ---
 
